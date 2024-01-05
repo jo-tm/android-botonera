@@ -1,0 +1,3 @@
+title=Botonera Doctrinaria de Guillermo Moreno v1
+author=someappauthor
+orientation=portrait
